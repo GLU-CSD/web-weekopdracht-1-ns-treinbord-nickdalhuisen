@@ -1,3 +1,9 @@
+body{
+background-image: url("css/img/treinbord.webp");
+
+}
+
+
 #container{
     width: 936px;
     display: flex;
@@ -27,4 +33,9 @@
     height: 335px;
     background-color: rgb(0, 0, 106);
     border: 2px solid #000;
+}
+#grotevierkant{
+
+
+
 }
